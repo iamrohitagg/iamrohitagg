@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
+⚡ Fun fact: 
 -->
 
 - 🔭 I’m currently working on Web Development
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, C++ and JavaScript
 - 📫 How to reach me: rohitaggarwal376@gmail.com
 
-- ⚡ Fun fact: Sometimes when coding in JavaScript, I just want to say "Fuck this". But I can't remember what "this" refers to. 😄
+- Sometimes when coding in JavaScript, I just want to say "Fuck this". But I can't remember what "this" refers to. 😄
 
