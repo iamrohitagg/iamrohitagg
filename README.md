@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about competitive programming.
 - 📫 How to reach me: rohitaggarwal376@gmail.com
 
-- Sometimes when coding in JavaScript, I just want to say "Fuck this". But I can't remember what "this" refers to. 😄
+Sometimes when coding in JavaScript, I just want to say "Fuck this". But I can't remember what "this" refers to. 😄
 
