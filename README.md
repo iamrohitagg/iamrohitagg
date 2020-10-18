@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently making some weird examination website.
-- 🌱 I’m currently learning React, Node and Vanilla JavaScript
+- 🌱 I’m currently learning React Native.
 - 💬 Ask me about competitive programming.
 - 📫 How to reach me: rohitaggarwal376@gmail.com
 
