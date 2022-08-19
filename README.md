@@ -5,8 +5,8 @@
 -->
 
 - 🔭 I’m currently working as Software Engineer.
-- 🌱 I’m currently learning React Native.
-- 💬 Ask me about React.js, JavaScript and Node.js.
+- 🌱 I’m currenty learning C++.
+- 💬 Ask me about React.js, JavaScript and React Native.
 - 📫 How to reach me: rohitaggarwal376@gmail.com
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=iamrohitagg&count_private=true&theme=dark&hide=prs,stars,issues&show_icons=true])
