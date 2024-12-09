@@ -8,7 +8,6 @@
 - 💬 Ask me about React.js, JavaScript and React Native.
 - 📫 How to reach me: rohitaggarwal376@gmail.com
 
-![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=iamrohitagg&count_private=true&theme=dark&hide=prs,stars,issues&show_icons=true])
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohitagg&hide=jupyter%20notebook,Java,CSS,Ruby,Starlark,Objective-C,HTML)](https://github.com/iamrohitagg/github-readme-stats)
 <br>
